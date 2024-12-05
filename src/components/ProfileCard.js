@@ -25,21 +25,21 @@ const ProfileCard = () => {
       </div>
       <div className="flex space-x-6 mt-8">
         <a
-          href="#"
+          href="https://github.com/rdnm0"
           className="text-gray-400 hover:text-white transition-transform transform hover:scale-125"
           aria-label="GitHub"
         >
           <i className="fab fa-github text-3xl"></i>
         </a>
         <a
-          href="#"
+          href="https://www.linkedin.com/in/rohan-dhanam-55b846264/"
           className="text-gray-400 hover:text-white transition-transform transform hover:scale-125"
           aria-label="LinkedIn"
         >
           <i className="fab fa-linkedin text-3xl"></i>
         </a>
         <a
-          href="mailto:rohan@example.com"
+          href="mailto:rohandhanam@gmail.com"
           className="text-gray-400 hover:text-white transition-transform transform hover:scale-125"
           aria-label="Email"
         >
