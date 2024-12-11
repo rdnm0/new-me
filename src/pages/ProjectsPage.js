@@ -14,7 +14,7 @@ const ProjectsPage = () => {
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {Array.from({ length: 6 }).map((_, index) => (
+        {Array.from({ length: 3 }).map((_, index) => (
           <div
             key={index}
             className="bg-gray-800 rounded-lg p-6 shadow-lg transition-transform duration-300 hover:scale-105"

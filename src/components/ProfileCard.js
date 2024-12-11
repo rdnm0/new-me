@@ -39,7 +39,7 @@ const ProfileCard = () => {
           <i className="fab fa-linkedin text-3xl"></i>
         </a>
         <a
-          href="mailto:rohandhanam@gmail.com"
+          href="mailto:rohandhanam@gmail.com "
           className="text-gray-400 hover:text-white transition-transform transform hover:scale-125"
           aria-label="Email"
         >
